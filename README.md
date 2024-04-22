@@ -1,2 +1,2 @@
-# --to-INR
+# dollar-to-INR
 my first android dev simple miniproject......
